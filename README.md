@@ -1,2 +1,2 @@
 # competitions
-Colab Notebooks of the competitions where I achieve a good rank/score
+Colab Notebooks of the competitions where I achieved a good rank/score
